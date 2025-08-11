@@ -1,0 +1,11 @@
+This file is made to test if this compression algorithm works.
+The swift white fox jumped over the lazy dog.
+
+110110011001010101010101010110011111000101010101010101101010101010111010101
+
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences. this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences. this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
+this is paragraph which is supposed to be one line opied a lot of times to simulate a paragrpah with many sentences.
